@@ -4,6 +4,6 @@ title: About George
 permalink: /about/
 ---
 
-I am an AI engineer at [Paige](https://paige.ai) interested in Deep Learning, Abstract Mathematics, Philosophy, and History.
+I am an AI engineer at [Paige](https://paige.ai) passionate about deep learning, abstract mathematics, philosophy, and history.
 
 [linkedin](https://www.linkedin.com/in/gshaikovski/)
